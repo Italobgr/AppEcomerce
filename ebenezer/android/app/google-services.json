@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1012862899201",
+    "firebase_url": "https://loja-online-9a585.firebaseio.com",
+    "project_id": "loja-online-9a585",
+    "storage_bucket": "loja-online-9a585.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1012862899201:android:c4ba664743a74700cbdc00",
+        "android_client_info": {
+          "package_name": "com.brunobgr.ebenezer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1012862899201-10bn3fjheqpccpf50huklccl1tg8a6uq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA08Q9AcSgcTGY3NMGADp1ZjO_KUgUodJc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1012862899201-10bn3fjheqpccpf50huklccl1tg8a6uq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
